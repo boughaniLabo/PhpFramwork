@@ -1,0 +1,20 @@
+{
+    "name": "boughani/monfram-work",
+    "autoload": {
+        "psr-4": {
+            "Boughani\\MonframWork\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "abdelghani",
+            "email": "abdelghani.demmouche.prof@gmail.com"
+        }
+    ],
+    "require": {
+        "http-interop/response-sender": "^1.0"
+    },
+    "require-dev": {
+        "squizlabs/php_codesniffer": "^3.7"
+    }
+}
